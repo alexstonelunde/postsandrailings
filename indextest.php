@@ -6,7 +6,7 @@ define('POSTWIDTH', 100);
 define('POSTNUM', 33);
 define('RAILSNUM', 12);
 
-define('GIVENLENGTH', 2134);
+define('GIVENLENGTH', 45434);
 
 $length = GIVENLENGTH;
 $rails = RAILSNUM;
